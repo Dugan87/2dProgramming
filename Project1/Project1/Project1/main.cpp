@@ -6,6 +6,7 @@ int main(int argc, char* args[])
 	gm.Init();
 	while (gm.Update());
 	gm.Close();
+		
 
 	return 0;
 }
